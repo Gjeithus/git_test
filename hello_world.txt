@@ -1,1 +1,4 @@
 Jeg legger til tekst her
+
+git config --global core.editor "code --wait"
+Her er jeg usikker på hva dette gjør
